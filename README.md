@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/grayesi-silitonga">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:email_kamu@gmail.com">
+  <a href="mailto:grayesi.silitonga@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -29,10 +29,10 @@
         <h3 align="center">👩‍💻 About Me</h3>
         <p>I am a student at <b>Raja Ali Haji Maritime University (UMRAH)</b> focusing on backend logic and clean code.</p>
         <p>
-          💜 <b>Interest:</b> Web Dev & Data Structures<br>
+          💜 <b>Interest:</b> Web Dev <br>
           🔭 <b>Current Project:</b> AVL Tree Search Engine<br>
           🌱 <b>Learning:</b> PHP Frameworks & Python<br>
-          ⚡ <b>Fun Fact:</b> I love coffee & aesthetic setup!
+          ⚡ <b>Fun Fact:</b> I love coffee
         </p>
       </td>
       <td valign="center" width="50%">
