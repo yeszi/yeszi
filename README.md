@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Grayesi Silitonga! 👋
 
-<!--
-**yeszi/yeszi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics Engineering Student at **Raja Ali Haji Maritime University (UMRAH)**.
+Currently learning Data Structures, Web Development, and Algorithm.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My Github Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yeszi&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeszi&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+### 🤝 Connect with me
+[Instagram](https://instagram.com/yasotoyy) | [LinkedIn](https://linkedin.com/in/grayesi-silitonga)
