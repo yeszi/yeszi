@@ -30,7 +30,6 @@
         <p>I am a student at <b>Raja Ali Haji Maritime University (UMRAH)</b> focusing on backend logic and clean code.</p>
         <p>
           💜 <b>Interest:</b> Web Dev <br>
-          🔭 <b>Current Project:</b> AVL Tree Search Engine<br>
           🌱 <b>Learning:</b> PHP Frameworks & Python<br>
           ⚡ <b>Fun Fact:</b> I love coffee
         </p>
@@ -64,7 +63,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeszi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=c084fc&icon_color=bf91f3" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeszi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=c084fc" height="160" alt="languages graph" />
 </div>
 
