@@ -26,7 +26,6 @@
   <table>
     <tr>
       <td valign="center" width="50%">
-        <h3 align="center">👩‍💻 About Me</h3>
           💜 <b>Interest:</b> Web Dev <br>
           🌱 <b>Learning:</b> PHP Frameworks & Python<br>
           ⚡ <b>Fun Fact:</b> I love coffee
@@ -49,6 +48,10 @@
   </table>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeszi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=c084fc" height="160" alt="languages graph" />
+</div>
+
 <br>
 
 <h3 align="center">🏆 Achievements</h3>
@@ -59,10 +62,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeszi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=c084fc" height="160" alt="languages graph" />
-</div>
 
 <br>
 <div align="center">
