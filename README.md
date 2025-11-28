@@ -12,6 +12,10 @@
   <a href="mailto:grayesi.silitonga@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</div
+  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18181b,2e1065,7e22ce&height=100&section=footer&fontSize=0" width="100%">
 </div>
 
 <br>
@@ -48,10 +52,6 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeszi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=c084fc" height="160" alt="languages graph" />
-</div>
-
 <br>
 
 <h3 align="center">🏆 Achievements</h3>
@@ -61,7 +61,11 @@
   </a>
 </div>
 
-<br>
+<br> 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeszi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=c084fc" height="160" alt="languages graph" />
+</div>
 
 <br>
 <div align="center">
