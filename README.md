@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F5E6FA,D8B4FE,A78bFA&height=120&section=header&fontSize=0" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=EDE0D4,DDB892,B08968&height=120&section=header&fontSize=0" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=26&pause=1000&color=9F7AEA&background=00000000&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Grayesi!+🌸;Web+Dev+Enthusiast+✨;Welcome+to+my+profile!+☁️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=26&pause=1000&color=7F5539&background=00000000&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Grayesi!+☕;Web+Dev+Enthusiast+✨;Welcome+to+my+aesthetic+space!+🧸" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://instagram.com/yasotoyy">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-A1887F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://linkedin.com/in/grayesi-silitonga">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-8D6E63?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:grayesi.silitonga@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-795548?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -22,8 +22,8 @@
 
 <div align="center">
   <p>
-    💜 <b>Interest:</b> Web Development & UI/UX <br>
-    🌱 <b>Learning:</b> PHP Frameworks & Python <br>
+    🧸 <b>Interest:</b> Web Development & UI/UX <br>
+    🍂 <b>Learning:</b> PHP Frameworks & Python <br>
     ☕ <b>Fun Fact:</b> I code better with coffee & music
   </p>
 </div>
@@ -36,7 +36,7 @@
 
 <br>
 
-<h3 align="center">☁️ My Tech Stack</h3>
+<h3 align="center">🍪 My Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
@@ -49,9 +49,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeszi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=D8B4FE&icon_color=F5E6FA" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeszi&layout=compact&theme=default&hide_border=true&bg_color=2b211e&title_color=e6ccb2&icon_color=d4a373&text_color=e6ccb2" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18181b,2e1065,7e22ce&height=80&section=footer&fontSize=0" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2b211e,5D4037,8D6E63&height=80&section=footer&fontSize=0" width="100%">
 </div>
