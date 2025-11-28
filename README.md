@@ -27,8 +27,6 @@
     <tr>
       <td valign="center" width="50%">
         <h3 align="center">👩‍💻 About Me</h3>
-        <p>I am a student at <b>Raja Ali Haji Maritime University (UMRAH)</b> focusing on backend logic and clean code.</p>
-        <p>
           💜 <b>Interest:</b> Web Dev <br>
           🌱 <b>Learning:</b> PHP Frameworks & Python<br>
           ⚡ <b>Fun Fact:</b> I love coffee
