@@ -45,9 +45,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeszi&layout=compact&theme=gruvbox&hide_border=true&title_color=DDB892&text_color=DDB892&icon_color=DDB892&bg_color=2b211e" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2b211e,5D4037,8D6E63&height=100&section=footer&fontSize=0" width="100%">
 </div>
