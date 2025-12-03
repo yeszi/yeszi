@@ -23,7 +23,6 @@
 <br>
 
 <div align="center">
-  <h3>👩‍💻 About Me</h3>
   <p>
     🧸 <b>Interest:</b> Web Dev & UI/UX &nbsp;|&nbsp; 
     🍂 <b>Learning:</b> PHP & Python &nbsp;|&nbsp; 
