@@ -6,8 +6,8 @@
   ---
 
   ### 🧸 About Me
-  - 🍂 Currently learning **PHP** & **Python**.
-  - 🎨 Passionate about building clean **UI/UX** designs.
+  🍂 Currently learning **PHP** & **Python**.
+  🎨 Passionate about building clean **UI/UX** designs.
 
   ### 🚀 Tech Stack
   <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
@@ -19,7 +19,4 @@
   <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
 
   ---
-
-  <img src="https://github-readme-stats.vercel.app/api?username=grayesi-silitonga&show_icons=true&theme=coffee&hide_border=true" alt="Stats" />
-
 </div>
