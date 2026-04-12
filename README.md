@@ -4,7 +4,6 @@
 **UI/UX Enthusiast | Front-End Developer 🍪**
 
 ### 🧸 About Me
-🍂 Currently focusing on **Riset** & **Penelitian**
 🎨 Building clean, user-centric **UI/UX Designs**
 
 ### 🚀 Tech Stack
