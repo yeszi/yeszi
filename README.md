@@ -1,18 +1,26 @@
 <div align="center">
-  <h1>☕ Hi, I'm Grayesi!</h1>
-  <p><b> UI/UX Enthusiast | Coffee Driven 🍪</b></p>
-  
-  ### 🧸 About Me
-  🍂 Currently learning **PHP** & **Python**.
-  🎨 Passionate about building clean **UI/UX** designs.
 
-  ### 🚀 Tech Stack
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
-  
+# ☕ Grayesi Silitonga
+**UI/UX Enthusiast | Front-End Developer 🍪**
+
+---
+
+### 🧸 About Me
+🍂 Currently focusing on **Riset** & **Penelitian**
+🎨 Building clean, user-centric **UI/UX Designs**
+
+---
+
+### 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,mysql,figma,bootstrap,vue" />
+</p>
+
+---
+
+### 📊 Stats & Visitors
+![Visitors](https://api.visitorbadge.io/api/visitors?path=grayesi&label=PROFILE%20VIEWS&countColor=%23d97706&style=flat-square)
+<br>
+![Grayesi's GitHub stats](https://github-readme-stats.vercel.app/api?username=grayesi&show_icons=true&theme=radical&hide_border=true)
+
 </div>
