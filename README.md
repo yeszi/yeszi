@@ -8,8 +8,4 @@ design · develop · learn
 <div align="center">
 🌱 Currently
 Learning · Building · Creating
-<br>
-Turning ideas into simple and meaningful experiences.
-<br>
-☕ Welcome to my little corner of GitHub.
 </div>
