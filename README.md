@@ -1,30 +1,14 @@
-<div align="center">
-Grayesi Silitonga
+\# Hi, I'm Yesii 
 
-UI/UX Designer · Web Developer
 
-Creating clean, simple, and user-centered digital experiences.
 
-<br> <img src="https://skillicons.dev/icons?i=figma,html,css,js,vue,php,py,mysql" />
+> Beginner Developer | Learning Web Development
 
-<br><br>
 
-Design · Develop · Create
 
-</div>
-About
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white" alt="VS Code" />
 
-I'm passionate about UI/UX Design and Web Development.
-I enjoy turning ideas into simple, functional, and meaningful digital experiences.
 
-Tools
 
-Figma · HTML · CSS · JavaScript · Vue.js · PHP · Python · MySQL
+<a href="https://www.linkedin.com/in/yohani-natalia-s-216657246/" target="\_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:yohaninatalia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Gmail" /></a>
 
-<div align="center">
-
-Thanks for visiting my profile.
-
-☕
-
-</div>
