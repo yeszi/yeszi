@@ -2,7 +2,7 @@
 ☕ Grayesi Silitonga
 <br> Design · Develop · Learn <br>
 <div>
-<br> <img src="https://skillicons.dev/icons?i=figma,html,css,js,vue,bootstrap,php,py,mysql" />
+<br> <img src="https://skillicons.dev/icons?i=figma,js,vue,bootstrap,py,mysql" />
 <br>
 </div>
 <div align="center">
